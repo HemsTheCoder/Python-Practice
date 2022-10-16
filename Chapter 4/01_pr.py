@@ -6,4 +6,4 @@ f4=input("Enter Fruit Name 4:")
 
 myFruitList=[f1,f2,f3,f4]
 print(myFruitList)
-print("****************\n\tmy fav. furit is:"+myFruitList[1])
+print("****************\n\tmy fav. furit is: "+myFruitList[1])
