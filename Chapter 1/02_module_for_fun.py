@@ -1,5 +1,5 @@
 
 from playsound import playsound
 print("playing song")
-playsound('D:\Python\Best Dj Beat.mp3') 
+playsound('D:\Python\Chapter 1\music.mp3') 
  
